@@ -1,0 +1,16 @@
+{
+  "element_type": "figure",
+  "content": "Figure6.Spatialdistributionofgroundtruthsthatarematchedtothesamequeryatdifferenttrainingiterations. (a): Baseline. (b): Ours.",
+  "paper_id": "2309.01692v1",
+  "element_id": "067f8814-399",
+  "page_number": 8,
+  "bbox": null,
+  "metadata": {
+    "caption": "Figure6.Spatialdistributionofgroundtruthsthatarematchedtothesamequeryatdifferenttrainingiterations. (a): Baseline. (b): Ours.",
+    "fig_number": "Figure 6",
+    "image_path": "data\\extracted\\2309.01692v1\\figures\\fig_010_p8.jpeg",
+    "width": 980,
+    "height": 880,
+    "fig_index": 10
+  }
+}

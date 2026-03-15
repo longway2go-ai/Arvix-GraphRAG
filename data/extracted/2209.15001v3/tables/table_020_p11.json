@@ -1,0 +1,50 @@
+{
+  "element_type": "table",
+  "content": " |  | ImageNet\nTop-1 Thru. |  | MSCOCO\nAPb APm Thru. |  |  |  | \n-------------------------------------------------------------------\n |  | 81.6 1810\nimgs/sec |  | 46.8 42.0 45.5\nfps |  |  |  | \n◦\nDiNAT-T | 52 | 81.3 | 1777\nimgs/sec | 47.6 | 42.7 | 45.6\nfps | 46.4 | 22.7\nfps",
+  "paper_id": "2209.15001v3",
+  "element_id": "3b987e48-de5",
+  "page_number": 11,
+  "bbox": null,
+  "metadata": {
+    "headers": [
+      "",
+      "",
+      "ImageNet\nTop-1 Thru.",
+      "",
+      "MSCOCO\nAPb APm Thru.",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "rows": [
+      [
+        "",
+        "",
+        "81.6 1810\nimgs/sec",
+        "",
+        "46.8 42.0 45.5\nfps",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "◦\nDiNAT-T",
+        "52",
+        "81.3",
+        "1777\nimgs/sec",
+        "47.6",
+        "42.7",
+        "45.6\nfps",
+        "46.4",
+        "22.7\nfps"
+      ]
+    ],
+    "col_count": 9,
+    "row_count": 2,
+    "is_benchmark": false,
+    "source": "pdfplumber",
+    "table_index": 20
+  }
+}

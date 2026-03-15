@@ -1,0 +1,33 @@
+{
+  "element_type": "table",
+  "content": " |  | 83.2\n82.7\n-\n82.7 | 47.7 42.6\n48.0 42.9\n48.3 43.4\n48.6 43.5 |  | \n-------------------------------------------------------------------------\n•\nDiNAT-Tiny\n• | Gradual | - | 48.6 | 43.5 | 48.8",
+  "paper_id": "2209.15001v3",
+  "element_id": "bd3da051-7de",
+  "page_number": 11,
+  "bbox": null,
+  "metadata": {
+    "headers": [
+      "",
+      "",
+      "83.2\n82.7\n-\n82.7",
+      "47.7 42.6\n48.0 42.9\n48.3 43.4\n48.6 43.5",
+      "",
+      ""
+    ],
+    "rows": [
+      [
+        "•\nDiNAT-Tiny\n•",
+        "Gradual",
+        "-",
+        "48.6",
+        "43.5",
+        "48.8"
+      ]
+    ],
+    "col_count": 6,
+    "row_count": 1,
+    "is_benchmark": false,
+    "source": "pdfplumber",
+    "table_index": 16
+  }
+}

@@ -1,0 +1,23 @@
+# Environment variables (contains your API keys!)
+.env
+
+# Downloaded PDFs and extracted data (too large for GitHub)
+data/pdfs/
+data/extracted/
+data/cache/
+logs/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+desktop.ini

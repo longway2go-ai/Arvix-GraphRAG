@@ -1,0 +1,68 @@
+[
+  {
+    "arxiv_id": "2512.22190v1",
+    "title": "Physics-Informed Machine Learning for Transformer Condition Monitoring -- Part I: Basic Concepts, Neural Networks, and Variants",
+    "authors": [
+      "Jose I. Aizpurua"
+    ],
+    "abstract": "Power transformers are critical assets in power networks, whose reliability directly impacts grid resilience and stability. Traditional condition monitoring approaches, often rule-based or purely physics-based, struggle with uncertainty, limited data availability, and the complexity of modern operating conditions. Recent advances in machine learning (ML) provide powerful tools to complement and extend these methods, enabling more accurate diagnostics, prognostics, and control. In this two-part series, we examine the role of Neural Networks (NNs) and their extensions in transformer condition monitoring and health management tasks. This first paper introduces the basic concepts of NNs, explores Convolutional Neural Networks (CNNs) for condition monitoring using diverse data modalities, and discusses the integration of NN concepts within the Reinforcement Learning (RL) paradigm for decision-making and control. Finally, perspectives on emerging research directions are also provided.",
+    "categories": [
+      "cs.LG"
+    ],
+    "published": "2025-12-20T10:10:25+00:00",
+    "updated": "2025-12-20T10:10:25+00:00",
+    "pdf_url": "https://arxiv.org/pdf/2512.22190v1",
+    "entry_url": "http://arxiv.org/abs/2512.22190v1",
+    "primary_category": "cs.LG",
+    "comment": "8 pages, 7 figures, 2 tables, published as conference paper in IEEE Advanced Research Workshop on Transformers 2025 as part of the Tutorial delivered with the title \"Physics-informed Machine Learning for Transformer Condition Monitoring\"",
+    "doi": "10.23919/ARWtr66130.2025.11261289",
+    "journal_ref": "8th International Advanced Research Workshop on Transformers (ARWtr), Baiona, Spain, 2025, pp. 87-94",
+    "local_pdf_path": null,
+    "download_status": "pending"
+  },
+  {
+    "arxiv_id": "2512.22189v1",
+    "title": "Physics-Informed Machine Learning for Transformer Condition Monitoring -- Part II: Physics-Informed Neural Networks and Uncertainty Quantification",
+    "authors": [
+      "Jose I. Aizpurua"
+    ],
+    "abstract": "The integration of physics-based knowledge with machine learning models is increasingly shaping the monitoring, diagnostics, and prognostics of electrical transformers. In this two-part series, the first paper introduced the foundations of Neural Networks (NNs) and their variants for health assessment tasks. This second paper focuses on integrating physics and uncertainty into the learning process. We begin with the fundamentals of Physics-Informed Neural Networks (PINNs), applied to spatiotemporal thermal modeling and solid insulation ageing. Building on this, we present Bayesian PINNs as a principled framework to quantify epistemic uncertainty and deliver robust predictions under sparse data. Finally, we outline emerging research directions that highlight the potential of physics-aware and trustworthy machine learning for critical power assets.",
+    "categories": [
+      "cs.LG"
+    ],
+    "published": "2025-12-20T10:09:21+00:00",
+    "updated": "2025-12-20T10:09:21+00:00",
+    "pdf_url": "https://arxiv.org/pdf/2512.22189v1",
+    "entry_url": "http://arxiv.org/abs/2512.22189v1",
+    "primary_category": "cs.LG",
+    "comment": "7 pages, 8 figures, published as conference paper in IEEE Advanced Research Workshop on Transformers 2025 as part of the Tutorial delivered with the title \"Physics-informed Machine Learning for Transformer Condition Monitoring\"",
+    "doi": "10.23919/ARWtr66130.2025.11261232",
+    "journal_ref": "8th International Advanced Research Workshop on Transformers (ARWtr), Baiona, Spain, 2025, pp. 95-101",
+    "local_pdf_path": null,
+    "download_status": "pending"
+  },
+  {
+    "arxiv_id": "2209.07474v3",
+    "title": "On the Surprising Effectiveness of Transformers in Low-Labeled Video Recognition",
+    "authors": [
+      "Farrukh Rahman",
+      "Ömer Mubarek",
+      "Zsolt Kira"
+    ],
+    "abstract": "Recently vision transformers have been shown to be competitive with convolution-based methods (CNNs) broadly across multiple vision tasks. The less restrictive inductive bias of transformers endows greater representational capacity in comparison with CNNs. However, in the image classification setting this flexibility comes with a trade-off with respect to sample efficiency, where transformers require ImageNet-scale training. This notion has carried over to video where transformers have not yet been explored for video classification in the low-labeled or semi-supervised settings. Our work empirically explores the low data regime for video classification and discovers that, surprisingly, transformers perform extremely well in the low-labeled video setting compared to CNNs. We specifically evaluate video vision transformers across two contrasting video datasets (Kinetics-400 and SomethingSomething-V2) and perform thorough analysis and ablation studies to explain this observation using the predominant features of video transformer architectures. We even show that using just the labeled data, transformers significantly outperform complex semi-supervised CNN methods that leverage large-scale unlabeled data as well. Our experiments inform our recommendation that semi-supervised learning video work should consider the use of video transformers in the future.",
+    "categories": [
+      "cs.CV",
+      "cs.LG"
+    ],
+    "published": "2022-09-15T17:12:30+00:00",
+    "updated": "2022-10-26T03:47:59+00:00",
+    "pdf_url": "https://arxiv.org/pdf/2209.07474v3",
+    "entry_url": "http://arxiv.org/abs/2209.07474v3",
+    "primary_category": "cs.CV",
+    "comment": "Accepted to NeurIPS 2022 Workshop on Vision Transformers: Theory and applications (VTTA)",
+    "doi": null,
+    "journal_ref": null,
+    "local_pdf_path": null,
+    "download_status": "pending"
+  }
+]

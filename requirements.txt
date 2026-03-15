@@ -1,0 +1,45 @@
+# ── Core ──────────────────────────────────────────────────────────────────────
+python-dotenv>=1.0.0
+pydantic>=2.0.0
+pydantic-settings>=2.0.0
+tqdm>=4.66.0
+loguru>=0.7.0
+rich>=13.7.0
+
+# ── arXiv Ingestion ────────────────────────────────────────────────────────────
+arxiv>=2.1.0
+requests>=2.31.0
+tenacity>=8.2.0
+
+# ── PDF Parsing & Layout Detection (Python 3.12 compatible) ───────────────────
+# NOTE: unstructured[local-inference] does NOT support Python 3.12
+# Use unstructured[pdf] instead — works perfectly for arXiv papers
+unstructured[pdf]>=0.12.0
+pdfplumber>=0.10.0
+camelot-py[cv]>=0.11.0
+PyMuPDF>=1.23.0
+Pillow>=10.0.0
+
+# ── Equation Extraction ────────────────────────────────────────────────────────
+pix2tex[api]>=0.1.2
+
+# ── NLP & Entity Extraction ───────────────────────────────────────────────────
+spacy>=3.7.0
+# After install run: python -m spacy download en_core_web_sm
+
+# ── Graph Database ─────────────────────────────────────────────────────────────
+neo4j>=5.18.0
+py2neo>=2021.2.4
+
+# ── Graph RAG ─────────────────────────────────────────────────────────────────
+llama-index>=0.10.0
+llama-index-graph-stores-neo4j>=0.1.0
+llama-index-llms-openai>=0.1.0
+llama-index-embeddings-openai>=0.1.0
+openai>=1.30.0
+
+# ── UI ─────────────────────────────────────────────────────────────────────────
+streamlit>=1.35.0
+streamlit-agraph>=0.0.45
+pandas>=2.1.0
+plotly>=5.18.0

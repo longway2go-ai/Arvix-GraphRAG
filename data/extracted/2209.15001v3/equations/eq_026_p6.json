@@ -1,0 +1,13 @@
+{
+  "element_type": "equation",
+  "content": "DiNAδ(i)=softmax i V(k,δ). (7) whicharediscussedinSec.4.4.",
+  "paper_id": "2209.15001v3",
+  "element_id": "c6a0f7b5-997",
+  "page_number": 6,
+  "bbox": null,
+  "metadata": {
+    "latex": "DiNAδ(i)=softmax i V(k,δ). (7) whicharediscussedinSec.4.4.",
+    "source": "raw_text",
+    "raw_text": "DiNAδ(i)=softmax i V(k,δ). (7) whicharediscussedinSec.4.4."
+  }
+}

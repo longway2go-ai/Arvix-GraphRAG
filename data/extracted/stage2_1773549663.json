@@ -1,0 +1,80 @@
+{
+  "count": 3,
+  "downloaded": 3,
+  "failed": 0,
+  "papers": [
+    {
+      "arxiv_id": "2209.15001v3",
+      "title": "Dilated Neighborhood Attention Transformer",
+      "authors": [
+        "Ali Hassani",
+        "Humphrey Shi"
+      ],
+      "abstract": "Transformers are quickly becoming one of the most heavily applied deep learning architectures across modalities, domains, and tasks. In vision, on top of ongoing efforts into plain transformers, hierarchical transformers have also gained significant attention, thanks to their performance and easy integration into existing frameworks. These models typically employ localized attention mechanisms, such as the sliding-window Neighborhood Attention (NA) or Swin Transformer's Shifted Window Self Attention. While effective at reducing self attention's quadratic complexity, local attention weakens two of the most desirable properties of self attention: long range inter-dependency modeling, and global receptive field. In this paper, we introduce Dilated Neighborhood Attention (DiNA), a natural, flexible and efficient extension to NA that can capture more global context and expand receptive fields exponentially at no additional cost. NA's local attention and DiNA's sparse global attention complement each other, and therefore we introduce Dilated Neighborhood Attention Transformer (DiNAT), a new hierarchical vision transformer built upon both. DiNAT variants enjoy significant improvements over strong baselines such as NAT, Swin, and ConvNeXt. Our large model is faster and ahead of its Swin counterpart by 1.6% box AP in COCO object detection, 1.4% mask AP in COCO instance segmentation, and 1.4% mIoU in ADE20K semantic segmentation. Paired with new frameworks, our large variant is the new state of the art panoptic segmentation model on COCO (58.5 PQ) and ADE20K (49.4 PQ), and instance segmentation model on Cityscapes (45.1 AP) and ADE20K (35.4 AP) (no extra data). It also matches the state of the art specialized semantic segmentation models on ADE20K (58.1 mIoU), and ranks second on Cityscapes (84.5 mIoU) (no extra data).",
+      "categories": [
+        "cs.CV",
+        "cs.AI",
+        "cs.LG"
+      ],
+      "published": "2022-09-29T17:57:08+00:00",
+      "updated": "2023-01-16T18:58:58+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2209.15001v3",
+      "entry_url": "http://arxiv.org/abs/2209.15001v3",
+      "primary_category": "cs.CV",
+      "comment": "Large results were updated according to the new checkpoint. We open-source our project at https://github.com/SHI-Labs/Neighborhood-Attention-Transformer",
+      "doi": null,
+      "journal_ref": null,
+      "local_pdf_path": "data\\pdfs\\2209.15001v3.pdf",
+      "download_status": "downloaded"
+    },
+    {
+      "arxiv_id": "2309.01692v1",
+      "title": "Mask-Attention-Free Transformer for 3D Instance Segmentation",
+      "authors": [
+        "Xin Lai",
+        "Yuhui Yuan",
+        "Ruihang Chu",
+        "Yukang Chen",
+        "Han Hu",
+        "Jiaya Jia"
+      ],
+      "abstract": "Recently, transformer-based methods have dominated 3D instance segmentation, where mask attention is commonly involved. Specifically, object queries are guided by the initial instance masks in the first cross-attention, and then iteratively refine themselves in a similar manner. However, we observe that the mask-attention pipeline usually leads to slow convergence due to low-recall initial instance masks. Therefore, we abandon the mask attention design and resort to an auxiliary center regression task instead. Through center regression, we effectively overcome the low-recall issue and perform cross-attention by imposing positional prior. To reach this goal, we develop a series of position-aware designs. First, we learn a spatial distribution of 3D locations as the initial position queries. They spread over the 3D space densely, and thus can easily capture the objects in a scene with a high recall. Moreover, we present relative position encoding for the cross-attention and iterative refinement for more accurate position queries. Experiments show that our approach converges 4x faster than existing work, sets a new state of the art on ScanNetv2 3D instance segmentation benchmark, and also demonstrates superior performance across various datasets. Code and models are available at https://github.com/dvlab-research/Mask-Attention-Free-Transformer.",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2023-09-04T16:09:28+00:00",
+      "updated": "2023-09-04T16:09:28+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2309.01692v1",
+      "entry_url": "http://arxiv.org/abs/2309.01692v1",
+      "primary_category": "cs.CV",
+      "comment": "Accepted to ICCV 2023. Code and models are available at https://github.com/dvlab-research/Mask-Attention-Free-Transformer",
+      "doi": null,
+      "journal_ref": null,
+      "local_pdf_path": "data\\pdfs\\2309.01692v1.pdf",
+      "download_status": "downloaded"
+    },
+    {
+      "arxiv_id": "2402.04563v1",
+      "title": "Attention Guided CAM: Visual Explanations of Vision Transformer Guided by Self-Attention",
+      "authors": [
+        "Saebom Leem",
+        "Hyunseok Seo"
+      ],
+      "abstract": "Vision Transformer(ViT) is one of the most widely used models in the computer vision field with its great performance on various tasks. In order to fully utilize the ViT-based architecture in various applications, proper visualization methods with a decent localization performance are necessary, but these methods employed in CNN-based models are still not available in ViT due to its unique structure. In this work, we propose an attention-guided visualization method applied to ViT that provides a high-level semantic explanation for its decision. Our method selectively aggregates the gradients directly propagated from the classification output to each self-attention, collecting the contribution of image features extracted from each location of the input image. These gradients are additionally guided by the normalized self-attention scores, which are the pairwise patch correlation scores. They are used to supplement the gradients on the patch-level context information efficiently detected by the self-attention mechanism. This approach of our method provides elaborate high-level semantic explanations with great localization performance only with the class labels. As a result, our method outperforms the previous leading explainability methods of ViT in the weakly-supervised localization task and presents great capability in capturing the full instances of the target class object. Meanwhile, our method provides a visualization that faithfully explains the model, which is demonstrated in the perturbation comparison test.",
+      "categories": [
+        "cs.CV",
+        "cs.AI"
+      ],
+      "published": "2024-02-07T03:43:56+00:00",
+      "updated": "2024-02-07T03:43:56+00:00",
+      "pdf_url": "https://arxiv.org/pdf/2402.04563v1",
+      "entry_url": "http://arxiv.org/abs/2402.04563v1",
+      "primary_category": "cs.CV",
+      "comment": "AAAI2024. Code available at https://github.com/LeemSaebom/Attention-Guided-CAM-Visual-Explanations-of-Vision-Transformer-Guided-by-Self-Attention.git",
+      "doi": null,
+      "journal_ref": null,
+      "local_pdf_path": "data\\pdfs\\2402.04563v1.pdf",
+      "download_status": "downloaded"
+    }
+  ]
+}

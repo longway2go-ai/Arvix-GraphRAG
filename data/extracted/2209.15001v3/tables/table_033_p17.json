@@ -1,0 +1,35 @@
+{
+  "element_type": "table",
+  "content": " | 2048×512 50M 900G 24.5 |  |  |  |  | \n-------------------------------------------\n◦\nDiNAT-M | 2048×512 | 50M | 900G | 24.2 | 45.8 | 47.2",
+  "paper_id": "2209.15001v3",
+  "element_id": "6a274e5f-4fe",
+  "page_number": 17,
+  "bbox": null,
+  "metadata": {
+    "headers": [
+      "",
+      "2048×512 50M 900G 24.5",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "rows": [
+      [
+        "◦\nDiNAT-M",
+        "2048×512",
+        "50M",
+        "900G",
+        "24.2",
+        "45.8",
+        "47.2"
+      ]
+    ],
+    "col_count": 7,
+    "row_count": 1,
+    "is_benchmark": false,
+    "source": "pdfplumber",
+    "table_index": 33
+  }
+}

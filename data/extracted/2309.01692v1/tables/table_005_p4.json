@@ -1,0 +1,49 @@
+{
+  "element_type": "table",
+  "content": " |  |  |  |  | \n------------------\n |  |  |  |  | \n |  |  |  |  | \n |  |  |  |  | ",
+  "paper_id": "2309.01692v1",
+  "element_id": "49943dfa-fa0",
+  "page_number": 4,
+  "bbox": null,
+  "metadata": {
+    "headers": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "rows": [
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ],
+    "col_count": 6,
+    "row_count": 3,
+    "is_benchmark": false,
+    "source": "pdfplumber",
+    "table_index": 5
+  }
+}

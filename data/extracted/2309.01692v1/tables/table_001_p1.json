@@ -1,0 +1,87 @@
+{
+  "element_type": "table",
+  "content": " |  |  |  |  |  |  | \n------------------------\n60\n58.1\n57.3 56.9\n56.9\n55\n50\n45\nOurs-128-epoch\nOurs-256-epoch\nBaseline-512-epoch\n40\n0 100 200 300 400 500 | 58.1\n57.3 56.9\nOurs-128-epoch\nOurs-256-epoch\nBaseline-512-epoch |  |  |  |  |  | \n |  |  |  |  |  |  | \n |  |  |  |  |  |  | \n |  |  |  |  |  |  | \n |  |  |  | Ours-256-epoch\nBaseline-512-epoch |  |  | \n |  |  |  |  |  |  | ",
+  "paper_id": "2309.01692v1",
+  "element_id": "cde5dfde-6a2",
+  "page_number": 1,
+  "bbox": null,
+  "metadata": {
+    "headers": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "rows": [
+      [
+        "60\n58.1\n57.3 56.9\n56.9\n55\n50\n45\nOurs-128-epoch\nOurs-256-epoch\nBaseline-512-epoch\n40\n0 100 200 300 400 500",
+        "58.1\n57.3 56.9\nOurs-128-epoch\nOurs-256-epoch\nBaseline-512-epoch",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "Ours-256-epoch\nBaseline-512-epoch",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ],
+    "col_count": 8,
+    "row_count": 6,
+    "is_benchmark": false,
+    "source": "pdfplumber",
+    "table_index": 1
+  }
+}

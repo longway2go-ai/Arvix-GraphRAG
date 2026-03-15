@@ -1,0 +1,36 @@
+{
+  "element_type": "table",
+  "content": "NAT-T | 1,1,1,1 | 1,1,1,1 | 83.2 | 47.7 | 42.6 | 48.4\n |  |  | 81.0\n-\n- | 42.6 39.5\n36.0 34.4\n31.7 30.7 |  | ",
+  "paper_id": "2209.15001v3",
+  "element_id": "16f84b58-ad0",
+  "page_number": 11,
+  "bbox": null,
+  "metadata": {
+    "headers": [],
+    "rows": [
+      [
+        "NAT-T",
+        "1,1,1,1",
+        "1,1,1,1",
+        "83.2",
+        "47.7",
+        "42.6",
+        "48.4"
+      ],
+      [
+        "",
+        "",
+        "",
+        "81.0\n-\n-",
+        "42.6 39.5\n36.0 34.4\n31.7 30.7",
+        "",
+        ""
+      ]
+    ],
+    "col_count": 7,
+    "row_count": 2,
+    "is_benchmark": false,
+    "source": "pdfplumber",
+    "table_index": 17
+  }
+}

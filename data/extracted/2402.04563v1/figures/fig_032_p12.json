@@ -1,0 +1,16 @@
+{
+  "element_type": "figure",
+  "content": "Table 5: Performance comparison with additional methods on ImageNet ILSVRC 2012. The results shows the localization",
+  "paper_id": "2402.04563v1",
+  "element_id": "47698b6b-ef8",
+  "page_number": 12,
+  "bbox": null,
+  "metadata": {
+    "caption": "Table 5: Performance comparison with additional methods on ImageNet ILSVRC 2012. The results shows the localization",
+    "fig_number": "Table 5",
+    "image_path": "data\\extracted\\2402.04563v1\\figures\\fig_032_p12.png",
+    "width": 926,
+    "height": 224,
+    "fig_index": 32
+  }
+}

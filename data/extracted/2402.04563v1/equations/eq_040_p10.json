@@ -1,0 +1,13 @@
+{
+  "element_type": "equation",
+  "content": "h ∂S(Ak h,1 )∂G(Ak h,1 ) ∂S(Ak h ) · (cid:18) ∂G(Ak h ) (cid:19)−1 =",
+  "paper_id": "2402.04563v1",
+  "element_id": "0b0fd952-e2e",
+  "page_number": 10,
+  "bbox": null,
+  "metadata": {
+    "latex": "h ∂S(Ak h,1 )∂G(Ak h,1 ) ∂S(Ak h ) · (cid:18) ∂G(Ak h ) (cid:19)−1 =",
+    "source": "raw_text",
+    "raw_text": "h ∂S(Ak h,1 )∂G(Ak h,1 ) ∂S(Ak h ) · (cid:18) ∂G(Ak h ) (cid:19)−1 ="
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "element_type": "equation",
+  "content": "Lc = Fk⊙ReLU(αk,c) (8) [14×14]numberofpatchesandthereforeeachmethodgen-",
+  "paper_id": "2402.04563v1",
+  "element_id": "a8f11558-d32",
+  "page_number": 5,
+  "bbox": null,
+  "metadata": {
+    "latex": "Lc = Fk⊙ReLU(αk,c) (8) [14×14]numberofpatchesandthereforeeachmethodgen-",
+    "source": "raw_text",
+    "raw_text": "Lc = Fk⊙ReLU(αk,c) (8) [14×14]numberofpatchesandthereforeeachmethodgen-"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "element_type": "table",
+  "content": "•\nDiNAT-L | 3842 | 200M | 89.7G | 161 | 20.1 | 87.4\n• DiNAT-L† | 3842 | 200M | 92.4G | 110 | 26.9 | 87.5",
+  "paper_id": "2209.15001v3",
+  "element_id": "1c5ddf43-592",
+  "page_number": 16,
+  "bbox": null,
+  "metadata": {
+    "headers": [],
+    "rows": [
+      [
+        "•\nDiNAT-L",
+        "3842",
+        "200M",
+        "89.7G",
+        "161",
+        "20.1",
+        "87.4"
+      ],
+      [
+        "• DiNAT-L†",
+        "3842",
+        "200M",
+        "92.4G",
+        "110",
+        "26.9",
+        "87.5"
+      ]
+    ],
+    "col_count": 7,
+    "row_count": 2,
+    "is_benchmark": false,
+    "source": "pdfplumber",
+    "table_index": 31
+  }
+}

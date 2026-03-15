@@ -1,0 +1,13 @@
+{
+  "element_type": "equation",
+  "content": "fpos =t[0,ˆr ]+t[1,ˆr ]+t[2,ˆr ], (6)",
+  "paper_id": "2309.01692v1",
+  "element_id": "7b409bb8-b42",
+  "page_number": 4,
+  "bbox": null,
+  "metadata": {
+    "latex": "fpos =t[0,ˆr ]+t[1,ˆr ]+t[2,ˆr ], (6)",
+    "source": "raw_text",
+    "raw_text": "fpos =t[0,ˆr ]+t[1,ˆr ]+t[2,ˆr ], (6)"
+  }
+}

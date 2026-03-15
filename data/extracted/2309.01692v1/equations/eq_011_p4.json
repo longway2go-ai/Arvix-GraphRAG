@@ -1,0 +1,13 @@
+{
+  "element_type": "equation",
+  "content": "Mask t =σ(Qc t·F mask T)<0.5, F mask =MLP mask ( F ), whereˆr x ,ˆr y ,ˆr z Zn×N arethediscreterelativepositions",
+  "paper_id": "2309.01692v1",
+  "element_id": "70ea7298-88b",
+  "page_number": 4,
+  "bbox": null,
+  "metadata": {
+    "latex": "Mask t =σ(Qc t·F mask T)<0.5, F mask =MLP mask ( F ), whereˆr x ,ˆr y ,ˆr z Zn×N arethediscreterelativepositions",
+    "source": "raw_text",
+    "raw_text": "Mask t =σ(Qc t·F mask T)<0.5, F mask =MLP mask ( F ), whereˆr x ,ˆr y ,ˆr z Zn×N arethediscreterelativepositions"
+  }
+}

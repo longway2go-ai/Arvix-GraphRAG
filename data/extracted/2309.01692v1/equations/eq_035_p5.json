@@ -1,0 +1,13 @@
+{
+  "element_type": "equation",
+  "content": "+λ DICE(Mask ,Mask ) AdamW [40] optimizer with the learning rate and weight",
+  "paper_id": "2309.01692v1",
+  "element_id": "3ea1842f-147",
+  "page_number": 5,
+  "bbox": null,
+  "metadata": {
+    "latex": "+λ DICE(Mask ,Mask ) AdamW [40] optimizer with the learning rate and weight",
+    "source": "raw_text",
+    "raw_text": "+λ DICE(Mask ,Mask ) AdamW [40] optimizer with the learning rate and weight"
+  }
+}

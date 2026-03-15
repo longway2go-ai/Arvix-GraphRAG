@@ -1,0 +1,45 @@
+{
+  "element_type": "table",
+  "content": "◦\nDiNATs-T | 2048×512 | 60M | 941G | 23.5 | 46.0 | 47.4\n | 2048×512 60M 939G 23.3\n2048×512 58M 934G 21.4 |  |  |  |  | \n◦\nDiNAT-T | 2048×512 | 58M | 934G | 21.3 | 47.8 | 48.8",
+  "paper_id": "2209.15001v3",
+  "element_id": "e512cc81-d60",
+  "page_number": 17,
+  "bbox": null,
+  "metadata": {
+    "headers": [],
+    "rows": [
+      [
+        "◦\nDiNATs-T",
+        "2048×512",
+        "60M",
+        "941G",
+        "23.5",
+        "46.0",
+        "47.4"
+      ],
+      [
+        "",
+        "2048×512 60M 939G 23.3\n2048×512 58M 934G 21.4",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "◦\nDiNAT-T",
+        "2048×512",
+        "58M",
+        "934G",
+        "21.3",
+        "47.8",
+        "48.8"
+      ]
+    ],
+    "col_count": 7,
+    "row_count": 3,
+    "is_benchmark": false,
+    "source": "pdfplumber",
+    "table_index": 34
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "element_type": "equation",
+  "content": "RF=n. RF=(cid:96)k. RF=(cid:96)(k−1)+1. RF=(cid:96)(k−1)+1. RF∈[(cid:96)(k−1)+1,k(cid:96)].",
+  "paper_id": "2209.15001v3",
+  "element_id": "4887efdf-4ff",
+  "page_number": 6,
+  "bbox": null,
+  "metadata": {
+    "latex": "RF=n. RF=(cid:96)k. RF=(cid:96)(k−1)+1. RF=(cid:96)(k−1)+1. RF∈[(cid:96)(k−1)+1,k(cid:96)].",
+    "source": "raw_text",
+    "raw_text": "RF=n. RF=(cid:96)k. RF=(cid:96)(k−1)+1. RF=(cid:96)(k−1)+1. RF∈[(cid:96)(k−1)+1,k(cid:96)]."
+  }
+}

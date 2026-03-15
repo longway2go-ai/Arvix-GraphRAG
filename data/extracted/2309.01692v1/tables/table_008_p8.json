@@ -1,0 +1,23 @@
+{
+  "element_type": "table",
+  "content": "det\ndet\ndet\ndet\ndet\ndet\ndet\ndet\ndet\ndet\ndet\n----------------------------------------------\ninst\ninst\ninst",
+  "paper_id": "2309.01692v1",
+  "element_id": "e650a2c9-6be",
+  "page_number": 8,
+  "bbox": null,
+  "metadata": {
+    "headers": [
+      "det\ndet\ndet\ndet\ndet\ndet\ndet\ndet\ndet\ndet\ndet"
+    ],
+    "rows": [
+      [
+        "inst\ninst\ninst"
+      ]
+    ],
+    "col_count": 1,
+    "row_count": 1,
+    "is_benchmark": false,
+    "source": "pdfplumber",
+    "table_index": 8
+  }
+}

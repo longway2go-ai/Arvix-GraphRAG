@@ -1,0 +1,13 @@
+{
+  "element_type": "equation",
+  "content": "∀x,y ∈R,S(x)<S(y) =⇒ G(x)<G(y) (1)",
+  "paper_id": "2402.04563v1",
+  "element_id": "d8f78822-7ab",
+  "page_number": 4,
+  "bbox": null,
+  "metadata": {
+    "latex": "∀x,y ∈R,S(x)<S(y) =⇒ G(x)<G(y) (1)",
+    "source": "raw_text",
+    "raw_text": "∀x,y ∈R,S(x)<S(y) =⇒ G(x)<G(y) (1)"
+  }
+}

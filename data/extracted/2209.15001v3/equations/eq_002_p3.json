@@ -1,0 +1,13 @@
+{
+  "element_type": "equation",
+  "content": "Attention(Q,K,V)=softmax V, (1)",
+  "paper_id": "2209.15001v3",
+  "element_id": "a6cdd100-2c9",
+  "page_number": 3,
+  "bbox": null,
+  "metadata": {
+    "latex": "Attention(Q,K,V)=softmax V, (1)",
+    "source": "raw_text",
+    "raw_text": "Attention(Q,K,V)=softmax V, (1)"
+  }
+}

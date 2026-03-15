@@ -1,0 +1,39 @@
+{
+  "element_type": "table",
+  "content": " | 12×12 216M 643G |  |  | 66.6 - - |  |  |  | \n--------------------------------------------------\n◦\nDiNAT-L | 11×11 | 220M | 525G | 67.2 | - | - | 44.5 | 83.4",
+  "paper_id": "2209.15001v3",
+  "element_id": "7ef13ec0-530",
+  "page_number": 12,
+  "bbox": null,
+  "metadata": {
+    "headers": [
+      "",
+      "12×12 216M 643G",
+      "",
+      "",
+      "66.6 - -",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "rows": [
+      [
+        "◦\nDiNAT-L",
+        "11×11",
+        "220M",
+        "525G",
+        "67.2",
+        "-",
+        "-",
+        "44.5",
+        "83.4"
+      ]
+    ],
+    "col_count": 9,
+    "row_count": 1,
+    "is_benchmark": false,
+    "source": "pdfplumber",
+    "table_index": 28
+  }
+}
