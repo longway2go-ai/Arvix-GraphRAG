@@ -258,7 +258,7 @@ answer = openai.chat(system_prompt + context + question)
 ## 📖 Blog Post
 
 Read the full technical breakdown here:
-👉 **[Your Blog Link]**
+👉 **[[Your Blog Link]](https://arnabdeo.substack.com/p/i-built-an-ai-that-reads-research?r=jw9pw&triedRedirect=true&_src_ref=claude.ai)**
 
 Covers: Graph RAG vs RAG, knowledge graph design, model choices, and everything A to Z.
 
